@@ -1,0 +1,13 @@
+{
+  "name": "qlvpp",
+  "version": "1.0.0",
+  "description": "PROJECT CONTEXT: Quản lý Văn phòng phẩm (QLVPP)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.78.0"
+  }
+}

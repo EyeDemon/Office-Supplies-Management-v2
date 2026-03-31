@@ -1,0 +1,24 @@
+# Bỏ qua thư mục build của Maven/Java
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+# Bỏ qua các file cấu hình của phần mềm IDE (rất nặng và không cần thiết)
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Bỏ qua file log
+*.log
+
+# Bỏ qua file chứa API Key và file môi trường Node
+.env
+frontend/.mvn-node/
+
+# (Tùy chọn) Nếu bạn có file database rất nặng không muốn đưa lên
+# database/data_sieu_nang.sql
