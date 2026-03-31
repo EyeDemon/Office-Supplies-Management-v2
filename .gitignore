@@ -22,3 +22,5 @@ frontend/.mvn-node/
 
 # (Tùy chọn) Nếu bạn có file database rất nặng không muốn đưa lên
 # database/data_sieu_nang.sql
+node_modules/
+frontend/node_modules/
